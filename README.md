@@ -1,2 +1,24 @@
-# Portfolio-Website-Md.-Atif-Absar
-This is the Personal portfolio website built using Blogger, showcasing my skills, projects, academic background, and achievements as a Computer Science &amp; Engineering student. It highlights my software, embedded, and IoT projects along with GitHub links, reflecting my journey, experience, and passion for technology and innovation.
+# 🌐 Personal Portfolio Website
+
+This is my official personal portfolio website built and hosted using Blogger.
+
+## 🔗 Live Website
+https://atifabsarportfolio.blogspot.com/
+
+## 📌 Overview
+This portfolio highlights:
+- Academic background
+- Technical skills (Software, Embedded Systems, FPGA, IoT)
+- SEO & Digital Marketing expertise
+- Meta Ads experience
+- Programming and engineering projects
+- GitHub project showcases
+- Resume / CV
+- Leadership & extracurricular experiences
+
+## 🚀 Purpose
+To present my professional profile, projects, and technical journey in a centralized platform for recruiters, collaborators, and industry professionals.
+
+---
+
+⭐ Feel free to explore the live site and provide feedback!
