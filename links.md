@@ -10,6 +10,7 @@ https://www.linkedin.com/in/your-link-here
 https://github.com/your-username
 
 ## 📄 CV / Resume
-(Add your Google Drive or direct PDF link here)
+https://drive.google.com/file/d/1LlveQbn2Jr1lA6m0s_hXvTAP17pxBE-n/view?usp=drive_link
+
 
 ---
